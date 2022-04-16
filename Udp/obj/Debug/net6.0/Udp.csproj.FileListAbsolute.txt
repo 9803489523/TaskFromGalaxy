@@ -1,0 +1,15 @@
+D:\ДЗ\3 курс\Практика\Udp\Udp\bin\Debug\net6.0\Udp.exe
+D:\ДЗ\3 курс\Практика\Udp\Udp\bin\Debug\net6.0\Udp.deps.json
+D:\ДЗ\3 курс\Практика\Udp\Udp\bin\Debug\net6.0\Udp.runtimeconfig.json
+D:\ДЗ\3 курс\Практика\Udp\Udp\bin\Debug\net6.0\Udp.dll
+D:\ДЗ\3 курс\Практика\Udp\Udp\bin\Debug\net6.0\ref\Udp.dll
+D:\ДЗ\3 курс\Практика\Udp\Udp\bin\Debug\net6.0\Udp.pdb
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.csproj.AssemblyReference.cache
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.AssemblyInfoInputs.cache
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.AssemblyInfo.cs
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.csproj.CoreCompileInputs.cache
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.dll
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\ref\Udp.dll
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.pdb
+D:\ДЗ\3 курс\Практика\Udp\Udp\obj\Debug\net6.0\Udp.genruntimeconfig.cache
